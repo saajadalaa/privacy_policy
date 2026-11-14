@@ -1,0 +1,5 @@
+# Security and hygiene baseline (2026-11-14)
+.env
+.env.*
+!.env.example
+.DS_Store
